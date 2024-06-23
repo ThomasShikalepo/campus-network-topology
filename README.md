@@ -1,4 +1,5 @@
 # campus-network-topology
+![campus network topology](https://github.com/ThomasShikalepo/campus-network-topology/assets/137569260/71147f61-0bd4-4a8b-853d-27423863f3f3)
 Coursework Brief
 Namibia University of Science and Technology
 
