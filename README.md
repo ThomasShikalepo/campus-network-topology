@@ -49,3 +49,4 @@ Open the project file (it-company-network-design.pkt) in Cisco Packet Tracer.
 Explore and Simulate:
 Navigate through the network topology in Cisco Packet Tracer.
 Simulate different scenarios to observe the behavior of RIP routing and VLAN segmentation.
+
